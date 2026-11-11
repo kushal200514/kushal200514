@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7F0000,65:DC2626,100:050505&height=230&section=header&text=KUSHAL%20SRINIVAS&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20FRIENDLY%20NEIGHBOURHOOD%20DEVELOPER%20%F0%9F%95%B7%EF%B8%8F&descSize=15&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7F0000,65:DC2626,100:050505&height=230&section=header&text=KUSHAL%20S&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20FRIENDLY%20NEIGHBOURHOOD%20DEVELOPER%20%F0%9F%95%B7%EF%B8%8F&descSize=15&descAlignY=60&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Kushal+%F0%9F%95%B7%EF%B8%8F;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Ideas+Into+Reality+%E2%9A%A1;With+Great+Code+Comes+Great+Responsibility." />
 
