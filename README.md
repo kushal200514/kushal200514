@@ -1,78 +1,97 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:B91C1C,100:090909&height=220&section=header&text=KUSHAL%20SRINIVAS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WITH%20GREAT%20CODE%20COMES%20GREAT%20RESPONSIBILITY&descAlignY=60&descSize=13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:7F0000,65:DC2626,100:050505&height=230&section=header&text=KUSHAL%20SRINIVAS&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20FRIENDLY%20NEIGHBOURHOOD%20DEVELOPER%20%F0%9F%95%B7%EF%B8%8F&descSize=15&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Kushal+%F0%9F%95%B7%EF%B8%8F;CSE+Student+%7C+Developer;Building+the+next+big+thing...;Turning+ideas+into+reality+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=EF4444&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+Kushal+%F0%9F%95%B7%EF%B8%8F;Computer+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Ideas+Into+Reality+%E2%9A%A1;With+Great+Code+Comes+Great+Responsibility." />
 
-**🕷️ Your friendly neighbourhood developer 🕸️**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kushal200514)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushal200514)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kushal1405/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kushal200514&style=for-the-badge&color=DC2626&label=SPIDER+VISITORS)
 
 </div>
 
 ---
 
-## 🕸️ THE ORIGIN STORY — ABOUT ME
+<div align="center">
+
+<img src="https://www.svgrepo.com/show/521654/spider-web.svg" width="65" alt="Spider web"/>
+
+# 🕸️ THE SPIDER VERSE
+
+*Every developer has an origin story. This is mine.*
+
+</div>
+
+## 🕷️ 01. THE ORIGIN STORY — ABOUT ME
 
 ```python
-class SpiderDeveloper:
+class Kushal:
 
     def __init__(self):
         self.name = "Kushal Srinivas"
-        self.role = "Computer Science Student"
+        self.education = "B.Tech Computer Science"
         self.university = "CMR University"
-        self.degree = "B.Tech CSE"
         self.graduation = 2028
+        self.role = "Developer & Tech Enthusiast"
 
     def interests(self):
         return [
-            "Software Development",
+            "Full Stack Development",
             "Artificial Intelligence",
             "Machine Learning",
-            "Building Real-world Applications",
-            "Problem Solving & DSA"
+            "Cloud Computing",
+            "Data Structures & Algorithms"
         ]
 
     def current_mission(self):
-        return "Learning, Building & Improving Every Day"
+        return "Build. Learn. Innovate. Repeat."
 
     def motto(self):
-        return "With great power comes great responsibility."
+        return "With Great Code Comes Great Responsibility."
 ```
 
-- 🎓 Third-year B.Tech Computer Science student.
-- 💻 Interested in software engineering and AI.
-- 🚀 Building applications that solve real-world problems.
-- 🧠 Practising Data Structures and Algorithms.
-- 🕷️ Learning something new with every project.
+- 🎓 Third-year Computer Science student at CMR University.
+- 💻 Interested in software development and AI.
+- 🚀 Building real-world applications and experimenting with new technologies.
+- 🧠 Practising Data Structures and Algorithms using Python.
+- ☁️ Exploring cloud technologies and backend development.
+- 🕸️ Always looking for the next challenge.
 
 ---
 
-## 🧪 MY WEB OF TECHNOLOGIES
+<div align="center">
+
+<img src="https://www.svgrepo.com/show/521654/spider-web.svg" width="55" alt="Spider web"/>
+
+</div>
+
+## ⚡ 02. MY WEB OF TECHNOLOGIES
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 PROGRAMMING LANGUAGES
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌐 Development
+### 🌐 WEB & BACKEND DEVELOPMENT
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ☁️ Cloud & Database
+### 🗄️ DATABASES
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🛠️ Developer Tools
+### ☁️ CLOUD & TOOLS
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -82,90 +101,129 @@ class SpiderDeveloper:
 
 ---
 
-## 🕷️ MISSIONS COMPLETED — FEATURED PROJECTS
+<div align="center">
 
-### 🌍 AtmosAI — Air Quality Intelligence
+<img src="https://www.svgrepo.com/show/521654/spider-web.svg" width="55" alt="Spider web"/>
 
-An air-quality monitoring and PM2.5 forecasting dashboard.
+</div>
 
-- Real-time air-quality monitoring.
-- PM2.5 forecasting.
-- AI-powered recommendations.
-- Cloud-based backend architecture.
+## 🚀 03. MISSIONS — FEATURED PROJECTS
 
-**Tech:** Python • FastAPI • AWS • React
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🩸 Khoon — Blood Bank Management
+<h3>🌍 AtmosAI</h3>
 
-A centralized blood bank management platform.
+**Air Quality Monitoring & Forecasting**
 
-- Blood bank management.
-- Centralized platform for blood-related information.
-- Full-stack application development.
+An intelligent dashboard designed to monitor air quality and forecast PM2.5 levels.
 
-**Tech:** Full Stack Development
+- Air quality monitoring
+- PM2.5 forecasting
+- AI-powered recommendations
+- Cloud backend architecture
+
+**Tech Stack**
+
+`Python` `FastAPI` `AWS` `React`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🩸 Khoon</h3>
+
+**Blood Bank Management Platform**
+
+A centralized blood bank management platform designed to simplify blood-related information and management.
+
+- Blood bank management
+- Centralized information
+- Full-stack development
+
+**Tech Stack**
+
+`Full Stack` `Web Development`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 SPIDER SENSE — GITHUB STATISTICS
+## 📊 04. SPIDER SENSE — GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushal200514&show_icons=true&theme=radical&hide_border=true&title_color=EF4444&icon_color=3B82F6&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kushal200514&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=3B82F6&text_color=FFFFFF&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal200514&theme=radical&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=3B82F6" />
+<img width="49%" src="https://streak-stats.demolab.com?user=kushal200514&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal200514&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal200514&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🧩 THE TRAINING ARC — LEETCODE
+## 🕸️ 05. THE CODING TRAINING ARC
 
 <div align="center">
 
 <a href="https://leetcode.com/u/kushal1405/">
 
-<img src="https://leetcard.jacoblin.cool/kushal1405?theme=dark&font=Baloo&ext=heatmap" width="80%" />
+<img src="https://leetcard.jacoblin.cool/kushal1405?theme=dark&font=Baloo&ext=heatmap" width="85%" alt="LeetCode statistics"/>
 
 </a>
 
-**Every problem solved makes the web stronger.**
+*Every problem solved makes the web stronger.*
 
 </div>
 
 ---
 
-## 🎯 NEXT MISSIONS
+## 📈 06. CONTRIBUTION WEB
 
-- [ ] Improve DSA and problem-solving skills.
-- [ ] Build more full-stack applications.
-- [ ] Explore AI and Machine Learning.
-- [ ] Strengthen cloud and backend development.
-- [ ] Contribute to open-source projects.
-- [ ] Become a better software engineer.
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal200514&bg_color=0D1117&color=FFFFFF&line=EF4444&point=3B82F6&area=true&hide_border=true&custom_title=Kushal's%20Contribution%20Web" width="100%"/>
+
+</div>
 
 ---
 
-## 🤝 JOIN MY SPIDER-VERSE
+## 🎯 07. UPCOMING MISSIONS
+
+- [ ] Master Data Structures and Algorithms.
+- [ ] Build advanced full-stack applications.
+- [ ] Explore AI and Machine Learning.
+- [ ] Strengthen backend and cloud development.
+- [ ] Contribute to open-source projects.
+- [ ] Build impactful real-world solutions.
+
+---
 
 <div align="center">
+
+<img src="https://www.svgrepo.com/show/521654/spider-web.svg" width="70" alt="Spider web"/>
+
+## 🕷️ 08. JOIN MY SPIDER-VERSE
 
 <a href="https://github.com/kushal200514">
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://leetcode.com/u/kushal1405/">
-<img src="https://img.shields.io/badge/LeetCode-Find_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-**"Anyone can wear the mask. The real power is what you do with it."**
+### "Anyone can wear the mask. The real power is what you do with it."
 
-🕷️ Keep Learning. Keep Building. Keep Exploring. 🕸️
+**KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:B91C1C,100:090909&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:DC2626,100:050505&height=150&section=footer&text=YOUR%20FRIENDLY%20NEIGHBOURHOOD%20DEVELOPER&fontSize=17&fontColor=FFFFFF&animation=fadeIn"/>
 
 </div>
